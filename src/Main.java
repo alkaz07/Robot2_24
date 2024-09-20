@@ -9,7 +9,6 @@ public class Main {
         RobotM2 rob4 = new RobotM2(map, 50, 50, "up");
         int result = rob4.runAndCount(proga);
         System.out.println(result);
-
     }
 
     private static String readProga() {
